@@ -10,6 +10,9 @@ Colecao publica de skills para agentes (separada do repositorio privado do proje
 - `skills/figma-mcp/SKILL.md`  
   Integra o Figma MCP para fluxos de design-to-code.
 
+- `skills/seven-skills-installer/SKILL.md`  
+  Instalador guiado das 7 skills/MCPs essenciais para Claude Code.
+
 ## Guia
 
 - `INSTALLATION-GUIDE.md`  
