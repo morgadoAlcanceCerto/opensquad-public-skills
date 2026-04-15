@@ -13,6 +13,9 @@ Colecao publica de skills para agentes (separada do repositorio privado do proje
 - `skills/seven-skills-installer/SKILL.md`  
   Instalador guiado das 7 skills/MCPs essenciais para Claude Code.
 
+- `skills/obsidian-neural-organizer/SKILL.md`  
+  Instala e organiza Obsidian no padrão de rede neural interligada (hubs, MOCs, metadados e grafo).
+
 ## Guia
 
 - `INSTALLATION-GUIDE.md`  
